@@ -1,0 +1,14 @@
+{
+    "plugins": [
+        {
+            "name": "astrbot_plugin_tts_speak",
+            "description": "让LLM能够自主调用TTS合成语音并发送语音消息的插件。注册了 tts_speak 工具函数。",
+            "version": "1.0.0",
+            "author": "小炎 & 柠枺",
+            "repo": "",
+            "branch": "main",
+            "icon": "icon.svg",
+            "tags": ["tts", "语音", "语音合成", "speak"]
+        }
+    ]
+}

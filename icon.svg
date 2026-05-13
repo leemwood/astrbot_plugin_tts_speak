@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- 背景圆形 -->
+  <circle cx="64" cy="64" r="60" fill="#4A90D9"/>
+
+  <!-- 声波装饰 -->
+  <g stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round">
+    <!-- 左侧声波 -->
+    <path d="M28 48 Q22 64 28 80" opacity="0.6"/>
+    <path d="M36 40 Q26 64 36 88" opacity="0.8"/>
+
+    <!-- 右侧声波 -->
+    <path d="M100 48 Q106 64 100 80" opacity="0.6"/>
+    <path d="M92 40 Q102 64 92 88" opacity="0.8"/>
+  </g>
+
+  <!-- TTS 文字 -->
+  <text x="64" y="72" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TTS</text>
+
+  <!-- 小圆点装饰 -->
+  <circle cx="64" cy="90" r="3" fill="#FFFFFF" opacity="0.8"/>
+</svg>
