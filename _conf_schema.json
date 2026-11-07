@@ -1,6 +1,1 @@
-{
-    "description": "TTS Speak 插件配置",
-    "type": "object",
-    "properties": {},
-    "additionalProperties": false
-}
+{}
